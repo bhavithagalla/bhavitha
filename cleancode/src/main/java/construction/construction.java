@@ -1,5 +1,11 @@
 package construction;
-
+/*
+In the below code 'S' implies standard materials 
+'A' implies AboveStandardMaterials  
+'H' implies HighStandardmaterials
+ In the automation code
+ 'Y' implies automation needed
+sss and 'N' implies automation not needed*/ 
 public class construction {
 	public double cost(char standard,double area,char automation)
 	{
